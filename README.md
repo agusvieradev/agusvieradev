@@ -1,5 +1,5 @@
 ### console.log ('Hi, I'm Agus!') 
-Currently learning and growing in this beautiful world of development, since the end of 2020 entering the career of being a great Full-Stack developer with JavaScript as a language and using technologies such as Ract.js with Redux and Node.js with Express.js. 
+My name is Agustin Viera, and I am a Front End Developer with more than two years of experience in developing user interfaces. I have a strong background in HTML, CSS, and JavaScript, and I am proficient in various front end frameworks such as Vue ecosystem, React and Flutter /w Dart.
 
 - 🔭 I currently work at EXO Technologies as Front End Developer
 - 📫 How to reach me: facundoviera98@gmail.com
